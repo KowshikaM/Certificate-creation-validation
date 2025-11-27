@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Certificate Generator
 
 A professional React-based certificate generator with advanced text editing and formatting capabilities.
@@ -134,3 +135,6 @@ To test extraction locally:
 from backend.stego_lsb import extract_message
 print(extract_message('path/to/certificate.png'))
 ```
+=======
+# Certificate-creation-validation
+>>>>>>> 21b0a71431e589d02be251a50105e3df371e86ac
